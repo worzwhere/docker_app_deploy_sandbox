@@ -9,4 +9,3 @@
    echo "Connected database server<br>";
    echo "Selected database";
 ?>
-cd
